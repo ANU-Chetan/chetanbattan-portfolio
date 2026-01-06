@@ -18,7 +18,7 @@ export const siteConfig = {
         "Analyzed and visualized public transport data using static GTFS datasets, building Python-based pipelines to extract, transform, and represent route, schedule, and service information.",
       link: "Ongoing",
       skills: ["Python", "GTFS", "APIs"],
-    },
+    }, 
     {
       name: "News Summarizer",
       description:
