@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I am a Bachelor of Advanced Computing (Honours) student at the Australian National University, with a focus on Human-Centred Computing and Artificial Intelligence. My work integrates technology and human behaviour to explore how people interact with intelligent systems. Through projects in embedded systems, databases, and computational modelling, I have developed strong analytical and programming skills. I aim to apply these technical and human-focused insights to develop secure and adaptive AI systems that enhance human capability and trust in technology.",
-  skills: ["Python", "Java", "SQL", "Dafny", "Haskell", "Assembly"],
+  skills: ["Python", "Java", "SQL", "Dafny", "Human-Centred Computing", "Assembly", "Microcontrollers & Embedded Systems", "Web Development"],
   projects: [
     {
       name: "Public Transport Data Analysis and Visualization",
@@ -23,13 +23,13 @@ export const siteConfig = {
       name: "News Summarizer",
       description:
         "Designed and implemented a Python-based news summarization system that retrieves live news articles via APIs and generates concise summaries using a Hugging Face Transformer-based model, applying modern natural language processing techniques to extract key information from unstructured text.",
-      link: "https://github.com/ANU-Chetan/news-summarizer-python",
+      link: "https://github.com/ANU-Chetan/news-summarizer-python/",
       skills: ["Python", "APIs", "Transformers"],
     },
     {
       name: "Autonomous Multi-Sensor Navigation Rover                                                                                                                                         ",
       description:
-        "●	Designed an intelligent Arduino-based rover capable of autonomous navigation through sensor fusion, heuristic pathfinding, and real-time obstacle detection under constrained computational resources.",
+        "Designed an intelligent Arduino-based rover capable of autonomous navigation through sensor fusion, heuristic pathfinding, and real-time obstacle detection under constrained computational resources.",
       link: "none",
       skills: ["3d printing", "Arduino"],
     },
